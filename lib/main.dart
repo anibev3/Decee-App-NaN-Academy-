@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Dicee'),
           backgroundColor: Colors.red,
         ),
-        body: const DicePage(),
+        body: DicePage(),
       ),
     );
   }
